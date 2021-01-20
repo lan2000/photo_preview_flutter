@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-    # 多属性图片
+   
+  # 多属性图片
   extended_image:
     git:
       url: https://gitee.com/zengxiangxi315/extended_image.git
