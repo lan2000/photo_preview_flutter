@@ -21,7 +21,7 @@ dependencies:
   # 视频播放器
   chewie: ^0.9.10
   # 官方视频播放器
-  video_player: ^0.10.11+1
+  video_player: ^1.0.1
   # 持久化
   path_provider: ^1.6.8
 
